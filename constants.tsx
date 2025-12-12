@@ -499,7 +499,7 @@ export const OTHER_PROJECTS: Experience[] = [
     date: "Nov–Dec 2023",
     type: "project",
     tags: ["C++", "Computer Graphics", "Ray Tracing", "Rasterization", "Linear Algebra"],
-    imageUrl: `${BASE}images/CG.jpg`,
+    imageUrl: "cv-portfolio/images/CG.jpg",
     githubUrl: "https://github.com/Keli202/CGworkbook",
     summary:
       "Built a C++ rendering engine that converts 3D geometry into images and animations by implementing the camera, projection and shading pipeline directly instead of using graphics APIs such as OpenGL or DirectX.",
@@ -520,7 +520,7 @@ export const OTHER_PROJECTS: Experience[] = [
     date: "Apr–May 2024",
     type: "project",
     tags: ["Maya", "3D Modelling", "Rendering", "Animation"],
-    imageUrl: `${BASE}images/CGI.jpg`,
+    imageUrl: "/cv-portfolio/images/CGI.jpg",
     summary:
       "Used Autodesk Maya to model and animate a Gothic-style building, with attention to architectural detail, camera motion and final rendered presentation.",
 
