@@ -389,7 +389,7 @@ export const OTHER_PROJECTS: Experience[] = [
     date: "Jul 2023 – Aug 2023",
     type: "internship",
     tags: ["Computer Vision", "YOLOv5", "Multimodal", "Benchmarking"],
-    imageUrl: "/public/images/CASIA.jpg",
+    imageUrl: "images/CASIA.jpg",
     // githubUrl: "https://github.com/Keli202",
     summary:
       "Internship focusing on YOLOv5 reproduction and evaluation of a multimodal model on video–language benchmarks.",
@@ -434,7 +434,7 @@ export const OTHER_PROJECTS: Experience[] = [
       "EC2",
       "CloudWatch"
     ],
-    imageUrl: "public/images/WordFreq.png", // 你之后用自己的图替换
+    imageUrl: "images/WordFreq.png", // 你之后用自己的图替换
     // githubUrl: "https://github.com/Keli202",
 
     summary:
@@ -456,7 +456,7 @@ export const OTHER_PROJECTS: Experience[] = [
     date: "Nov 2024",
     type: "project",
     tags: ["R", "Tidyverse", "Python", "PyTorch", "ANN", "Bootstrap", "Cross-Validation"],
-    imageUrl:"/images/ST.png",
+    imageUrl:"images/ST.png",
     githubUrl: "https://github.com/Keli202/FirstRProject",
     summary:
     "Used R to wrangle and visualise World Bank–style debt data and to derive/simulate custom probability models, and used PyTorch to build a heart-failure classifier with systematic hyperparameter and regularisation studies. Overall mark 85%.",
@@ -499,7 +499,7 @@ export const OTHER_PROJECTS: Experience[] = [
     date: "Nov–Dec 2023",
     type: "project",
     tags: ["C++", "Computer Graphics", "Ray Tracing", "Rasterization", "Linear Algebra"],
-    imageUrl: "cv-portfolio/images/CG.jpg",
+    imageUrl: "images/CG.jpg",
     githubUrl: "https://github.com/Keli202/CGworkbook",
     summary:
       "Built a C++ rendering engine that converts 3D geometry into images and animations by implementing the camera, projection and shading pipeline directly instead of using graphics APIs such as OpenGL or DirectX.",
@@ -520,7 +520,7 @@ export const OTHER_PROJECTS: Experience[] = [
     date: "Apr–May 2024",
     type: "project",
     tags: ["Maya", "3D Modelling", "Rendering", "Animation"],
-    imageUrl: "/cv-portfolio/images/CGI.jpg",
+    imageUrl: "images/CGI.jpg",
     summary:
       "Used Autodesk Maya to model and animate a Gothic-style building, with attention to architectural detail, camera motion and final rendered presentation.",
 
