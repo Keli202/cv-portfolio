@@ -389,7 +389,7 @@ export const OTHER_PROJECTS: Experience[] = [
     date: "Jul 2023 – Aug 2023",
     type: "internship",
     tags: ["Computer Vision", "YOLOv5", "Multimodal", "Benchmarking"],
-    imageUrl: `${BASE}images/CASIA.jpg`,
+    imageUrl: "/public/images/CASIA.jpg",
     // githubUrl: "https://github.com/Keli202",
     summary:
       "Internship focusing on YOLOv5 reproduction and evaluation of a multimodal model on video–language benchmarks.",
@@ -434,7 +434,7 @@ export const OTHER_PROJECTS: Experience[] = [
       "EC2",
       "CloudWatch"
     ],
-    imageUrl: `${BASE}images/WordFreq.png`, // 你之后用自己的图替换
+    imageUrl: "public/images/WordFreq.png", // 你之后用自己的图替换
     // githubUrl: "https://github.com/Keli202",
 
     summary:
@@ -456,7 +456,7 @@ export const OTHER_PROJECTS: Experience[] = [
     date: "Nov 2024",
     type: "project",
     tags: ["R", "Tidyverse", "Python", "PyTorch", "ANN", "Bootstrap", "Cross-Validation"],
-    imageUrl: `${BASE}images/ST.png`,
+    imageUrl:"/images/ST.png",
     githubUrl: "https://github.com/Keli202/FirstRProject",
     summary:
     "Used R to wrangle and visualise World Bank–style debt data and to derive/simulate custom probability models, and used PyTorch to build a heart-failure classifier with systematic hyperparameter and regularisation studies. Overall mark 85%.",
@@ -478,7 +478,7 @@ export const OTHER_PROJECTS: Experience[] = [
     date: "Apr 2025",
     type: "project",
     tags: ["Python", "Pandas", "Tableau", "PCA", "t-SNE", "Bayesian Modelling", "Data Visualisation"],
-    imageUrl: `${BASE}images/VA.jpg`,
+    imageUrl: "images/VA.jpg",
     summary:
       "Analysed 2011 England and Wales Census data and aligned 2011–2021 working-hours data using Python and Tableau to build interactive dashboards on occupational structure, ethnicity, gender and working time, combining dimensionality reduction with Bayesian forecasting. Overall mark 80%.",
 
