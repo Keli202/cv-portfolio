@@ -240,7 +240,7 @@ export const PERSONAL_INFO = {
   email: "niukeli299@gmail.com",
   phone: "+44 7419732452",
   github: "https://github.com/Keli202",
-  cvUrl: `${BASE}CV.pdf`,
+  cvUrl: `${BASE}NewCV.pdf`,
   location: "Bristol, United Kingdom",
   about:
     "I enjoy designing and implementing solutions to complex problems in visual computing and data science. With a First Class BSc in Computer Science and a Distinction in MSc Data Science from the University of Bristol, I work across computer vision and graphics, large-scale data analysis, and applied machine learning.",
@@ -283,7 +283,7 @@ export const RESEARCH_EXPERIENCE: Experience[] = [
     imageUrl: `${BASE}images/pipeline.jpg`,
     githubUrl: "https://github.com/Keli202/BSP",
 
-    paperVenue: "Submitted to IEEE ISBI 2026",
+    paperVenue: "Accepted by IEEE ISBI 2026",
 
     summary:
       "Segmentation-prior-guided key-frame detection with multi-depth temporal modelling and peak-preserving redundancy suppression, substantially improving F1 and segment stability for blind-sweep fetal ultrasound AC measurement.",
@@ -293,7 +293,7 @@ export const RESEARCH_EXPERIENCE: Experience[] = [
       "Built a stage-wise multi-depth semantic–temporal transformer (SMDST) that fuses BiomedCLIP frame embeddings with sequence context to score key and sub-key frames.",
       "Proposed Peak-preserving Redundancy Suppression (PRS) with BCE-centred calibration plus light supervised-contrastive and Gumbel-Softmax regularisation to suppress redundant responses while preserving high-confidence peaks.",
       "On blind-sweep fetal ultrasound, achieved +9.6 pp and +25.0 pp F1 improvements over two strong baselines and produced stable key/sub-key segments and dwell intervals for reliable abdominal-circumference (AC) measurement.",
-      "Extended this work into a full paper submitted to IEEE ISBI 2026 as a structure-augmented alternative to purely frame-level key-frame selection."
+      "Extended this work into a full paper accepted by IEEE ISBI 2026 as a structure-augmented alternative to purely frame-level key-frame selection."
     ]
   },
 
